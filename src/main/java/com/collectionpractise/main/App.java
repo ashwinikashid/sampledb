@@ -43,7 +43,7 @@ public class App {
 
 			ListStatesInIndia.put("Maharashtra", new State("Maharashtra", "Mumbai", cityListOfMaharashtra));
 			ListStatesInIndia.put("Karnataka", new State("Karnataka", "Bangalore", cityListOfKarnataka));
-			ListStatesInIndia.put("Maharashtra", new State("Maharashtra", "Mumbai", cityListOfMaharashtra));
+			//ListStatesInIndia.put("Maharashtra", new State("Maharashtra", "Mumbai", cityListOfMaharashtra));
 
 			Set statesInIndia = ListStatesInIndia.entrySet();
 			Iterator<Map.Entry> iterator = statesInIndia.iterator();
